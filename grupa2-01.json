@@ -1,5 +1,5 @@
 {
-"type":"ServerProfileV6",
+"type":"ServerProfileV1",
 "name":"Grupa-02-profil1",
 "description":"Ver: TypA - Plain Compute testowy",
 "serverHardwareUri": "/rest/server-hardware/33323337-3235-5A43-4A37-323930334759",
